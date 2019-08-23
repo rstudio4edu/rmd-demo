@@ -17,6 +17,11 @@ navbar:
       href: readings-module3.html
     - text: Module 4
       href: readings-module4.html
+  right:
+  - href: https://github.com/rstudio4edu
+    icon: fa-github
+  - href: https://twitter.com/rstudio
+    icon: fa-twitter
 output:
   html_document:
     theme: yeti
