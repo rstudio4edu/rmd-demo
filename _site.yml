@@ -20,4 +20,5 @@ navbar:
 output:
   html_document:
     theme: yeti
+    highlight: tango
 ---
