@@ -17,4 +17,7 @@ navbar:
       href: readings-module3.html
     - text: Module 4
       href: readings-module4.html
+output:
+  html_document:
+    theme: yeti
 ---
