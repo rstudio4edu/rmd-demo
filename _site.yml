@@ -28,6 +28,8 @@ navbar:
     icon: fa-twitter
 output:
   html_document:
+    toc: true
+    toc_float: true
     theme: yeti
     highlight: tango
 ---
