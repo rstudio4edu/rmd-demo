@@ -6,3 +6,13 @@ body {
 	font-family: 'Muli';
 	font-size: 19px;
 }
+
+
+/* links */
+a { 
+  color: #5ebccf;
+}
+
+a:hover {
+ color: #50a0b0; /* darker color when hovering */
+}
