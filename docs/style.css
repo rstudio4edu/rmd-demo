@@ -128,3 +128,20 @@ a:hover {
   font-weight: bold;
 }  
 
+/*-----------------TOC----------------*/
+
+/* Makes TOC sticky (needed if you used a hero image) */
+
+.row-fluid{
+  display: flex; /* Necessary for sticky TOC*/
+
+}
+
+.tocify {
+  position: -webkit-sticky;
+  position: sticky; 
+  top: 120px; /*Controls where TOC stops when sticky */
+  width: 100% !important;
+}
+
+
