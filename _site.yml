@@ -28,6 +28,8 @@ navbar:
     icon: fa-twitter
 output:
   html_document:
+    includes:
+      in_header: header.html
     css: style.css
     toc: true
     toc_float: true
