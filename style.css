@@ -142,6 +142,7 @@ a:hover {
   position: sticky; 
   top: 120px; /*Controls where TOC stops when sticky */
   width: 100% !important;
+  border: none;
 }
 
 
@@ -161,3 +162,23 @@ a:hover {
   }
   
 }
+
+/* TOC links */
+
+.list-group-item {
+    color: #7b8a8b;
+    font-size: 16px;
+}
+
+.list-group-item.active {
+    color: #2c3e50;
+    background-color: white;
+    border: none;
+}
+
+.list-group-item:hover, 
+.list-group-item.active:hover {
+    color: #131b23;
+    background-color: white;
+}
+
