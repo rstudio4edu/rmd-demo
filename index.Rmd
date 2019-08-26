@@ -22,7 +22,7 @@ Please also note that simple R Markdown sites are _not_ based on **blogdown**. T
 
 # Styled questions
 
-<div class="question">` 
+<div class="question">
 
 1. My first question 
 1. My second question
